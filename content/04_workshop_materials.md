@@ -1,3 +1,9 @@
+---
+ layout: default
+ title: Setup
+ nav_order: 3
+---
+
 ## Workshop materials
 
 - Citation management tools comparison table
