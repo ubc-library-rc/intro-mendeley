@@ -6,11 +6,19 @@
 
 ## Workshop materials
 
-- Citation management tools comparison table
+Citation management tools comparison table
 
-- Mendeley is one of several common citation management tools. In this document, we compare the features of these different tools to help you pick the right option for your work.
+- Download here
 
-- Workshop handout (doc version), (PDF version)
+Mendeley is one of several common citation management tools. In this document, we compare the features of these different tools to help you pick the right option for your work
 
-- This handout provides a thorough introduction to using Mendeley, as well as detailed descriptions of some of its special features.
+- Download here
+
+Workshop handout 
+
+- Download here
+
+This handout provides a thorough introduction to using Mendeley, as well as detailed descriptions of some of its special features.
 Workshop slides
+
+- Download here
