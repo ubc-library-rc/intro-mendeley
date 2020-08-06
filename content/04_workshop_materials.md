@@ -22,3 +22,7 @@ This handout provides a thorough introduction to using Mendeley, as well as deta
 Workshop slides
 
 - [Download here](https://github.com/ubc-library-rc/intro-mendeley/blob/master/contenthandouts/CM_ComprisonTable_Printer_20191031.pdf)
+
+Mastering Zotero in 20 steps
+
+- [Download here](https://github.com/ubc-library-rc/intro-mendeley/blob/master/contenthandouts/Mendeley-Challenges-in-20-Steps-2020.docx)
