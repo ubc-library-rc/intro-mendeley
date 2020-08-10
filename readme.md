@@ -1,4 +1,4 @@
- # Using Zotero for Mendeley
+ # Using Mendeley for Citation Management
 
 Link to workshop: https://ubc-library-rc.github.io/intro-mendeley
 
