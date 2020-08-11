@@ -8,4 +8,4 @@
 
 Mendeley is available for Mac, Windows, and Linux.  
 
-[Find more information on this page to download Mendeley](https://www.mendeley.com/reference-management/reference-manager) 
+- [Find more information on this page to download Mendeley](https://www.mendeley.com/reference-management/reference-manager) 
