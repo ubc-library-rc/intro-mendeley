@@ -1,4 +1,6 @@
  # Using Mendeley for Citation Management
+ 
+ ## ![]({{site.baseurl}}/content/images/mendeley.png)
 
 Link to workshop: https://github.com/ubc-library-rc/intro-mendeley
 
