@@ -1,6 +1,6 @@
 ---
  layout: default
- title: Setup
+ title: Workshop materials
  nav_order: 3
 ---
 
