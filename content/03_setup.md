@@ -6,6 +6,6 @@
 
 ## Installing the software
 
-Mendeley is available for Mac, Windows, and Linux.  Use this document to get Mendeley installed and setup on your own computer.
+Mendeley is available for Mac, Windows, and Linux.  
 
-https://www.mendeley.com/reference-management/reference-manager 
+[Find more information on this page to download Mendeley](https://www.mendeley.com/reference-management/reference-manager) 
