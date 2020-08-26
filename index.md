@@ -6,6 +6,8 @@ published: true
 ---
 ## ![]({{site.baseurl}}/content/images/mendeley.png)
 
+<img src="content/images/mendeley.png" style="width:200px;height:121px;" alt="Mendeley">
+
 
 Mendeley is a reference management tool that helps you build libraries of references and then add citations and bibliographies to word-processed documents. The objectives of this workshop include how to:
 
