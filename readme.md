@@ -1,6 +1,6 @@
  # Using Mendeley for Citation Management
  
- <img src="/content/images/mendeley.png" width="500" height="951" alt="Mendeley">
+ <img src="/content/images/mendeley.png" width="500" height="451" alt="Mendeley">
 
 Link to workshop: https://ubc-library-rc.github.io/intro-mendeley
 
