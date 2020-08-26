@@ -1,6 +1,8 @@
  # Using Mendeley for Citation Management
  
  ## ![]({{site.baseurl}}/content/images/mendeley.png)
+ 
+ <img src="/content/images/mendeley.png" width="200" height="121" alt="Mendeley">
 
 Link to workshop: https://ubc-library-rc.github.io/intro-mendeley
 
