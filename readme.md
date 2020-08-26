@@ -2,7 +2,7 @@
  
  ## ![]({{site.baseurl}}/content/images/mendeley.png)
  
- <img src="/content/images/mendeley.png" width="200" height="121" alt="Mendeley">
+ <img src="/content/images/mendeley.png" width="300" height="251" alt="Mendeley">
 
 Link to workshop: https://ubc-library-rc.github.io/intro-mendeley
 
