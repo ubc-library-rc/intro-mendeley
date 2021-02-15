@@ -21,3 +21,7 @@ Mastering Mendeley in 20 steps
 Workshop slides 
 
 - [Download here](https://github.com/ubc-library-rc/intro-mendeley/blob/master/handouts/Mendeley-Presentation-2020_2021-winter-rev20210208.pdf)
+
+Sample RIS file for practice 
+
+- [Download here](https://github.com/ubc-library-rc/intro-citation/blob/master/content/cm.ris)
