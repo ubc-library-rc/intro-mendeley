@@ -1,7 +1,7 @@
 ---
  layout: default
  title: Workshop materials
- nav_order: 6
+ nav_order: 7
 ---
 
 ## Workshop materials
