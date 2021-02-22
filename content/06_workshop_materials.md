@@ -22,6 +22,6 @@ Workshop slides
 
 - [Download here](https://github.com/ubc-library-rc/intro-mendeley/blob/master/handouts/Mendeley-Presentation-2020_2021-winter-rev20210208.pdf)
 
-Sample RIS file for practice 
+Sample RIS file for practice (Right-click to save)
 
 - [Download here](https://github.com/ubc-library-rc/intro-citation/blob/master/content/cm.ris)
